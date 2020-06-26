@@ -8,3 +8,6 @@ This titel introduces a movie character. Maybe male, maybe female. Hair length d
 * sleeping
 * washing
 * lazy
+Character has said
+> Nothing
+> special
